@@ -1,0 +1,30 @@
+.message-style {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.message-col {
+    color: rgb(255, 238, 53);
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(156, 150, 25);
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.cole{
+    background-color: red;
+    padding: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+    border: 2px solid black;
+}
+.button-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

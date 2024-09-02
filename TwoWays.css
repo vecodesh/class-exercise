@@ -1,0 +1,19 @@
+.center{
+    font-weight: bold;
+    text-align: center;
+}
+.box{
+    background-color: palegoldenrod;
+    
+    padding: 5px;
+    margin: 100px 300px 100px 300px;
+}
+.col{
+    background-color: black;
+    color: beige;
+}
+.style{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
